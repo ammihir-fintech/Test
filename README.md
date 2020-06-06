@@ -6,7 +6,7 @@ JUST ADDING THIS To TEST More
 
 
 
-![markdown-image][./stuff/image-analysis.png]
+![][./stuff/image-analysis.png]
 
 <img src=".//stuff/image-analysis.jpg">
 
