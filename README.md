@@ -6,7 +6,7 @@ JUST ADDING THIS To TEST More
 
 
 
-![markdown-image][imagez.png]
+![markdown-image][imagez.png?raw=true]
 
 ![image info](./stuff/image.png)
 
